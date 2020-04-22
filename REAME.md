@@ -1,4 +1,4 @@
-https://itagaki0120.github.io/web-page/WebKadai/index.html
+https://itagaki0120.github.io/web-page
 
 ##サイト内容
 
@@ -10,12 +10,6 @@ https://itagaki0120.github.io/web-page/WebKadai/index.html
 -WebKadai
     -css
         -style.css
-    -html
-        -index.html
-        -itagaki.html
-        -oonuma.html
-        -otsuto.html
-        -orikanai.html
     -img
         -home.png
         -img01.png
@@ -26,6 +20,11 @@ https://itagaki0120.github.io/web-page/WebKadai/index.html
         -oonuma.jpg
         -otsuto.jpg
         -orikanai.jpg
+    -index.html
+    -itagaki.html
+    -oonuma.html
+    -otsuto.html
+    -orikanai.html
 
 ##各メンバーの作業内容
 
