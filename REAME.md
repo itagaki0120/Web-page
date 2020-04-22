@@ -1,31 +1,34 @@
-https://itagaki0120.github.io/web-page
+https://itagaki0120.github.io/web-page/WebKadai/index.html
 
 ##サイト内容
+
 ####飲食店評価サイト
+
 各自がレビュアーとしてロールプレイングをし、評価する架空のwebサイトの作成
 
 ##ページ構成
 -WebKadai
- -css
-  -style.css
- -html
-  -index.html
-  -itagaki.html
-  -oonuma.html
-  -otsuto.html
-  -orikanai.html
- -img
-  -home.png
-  -img01.png
-  -img02.png
-  -img03.png
-  -img04.png
-  -itagaki.jpg
-  -oonuma.jpg
-  -otsuto.jpg
-  -orikanai.jpg
+    -css
+        -style.css
+    -html
+        -index.html
+        -itagaki.html
+        -oonuma.html
+        -otsuto.html
+        -orikanai.html
+    -img
+        -home.png
+        -img01.png
+        -img02.png
+        -img03.png
+        -img04.png
+        -itagaki.jpg
+        -oonuma.jpg
+        -otsuto.jpg
+        -orikanai.jpg
 
 ##各メンバーの作業内容
+
 ###板垣大樹
 >cssの作成
 >index.htmlとitagaki.htmlの作成
