@@ -1,4 +1,4 @@
-https://itagaki0120.github.io/web-page
+https://itagaki0120.github.io/Web-page
 
 ##サイト内容
 
