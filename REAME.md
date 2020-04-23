@@ -8,24 +8,24 @@ https://itagaki0120.github.io/Web-page
 
 ##ページ構成
 
--WebKadai
-    -css
-        -style.css
-    -img
-        -home.png
-        -img01.png
-        -img02.png
-        -img03.png
-        -img04.png
-        -itagaki.jpg
-        -oonuma.jpg
-        -otsuto.jpg
-        -orikanai.jpg
-    -index.html
-    -itagaki.html
-    -oonuma.html
-    -otsuto.html
-    -orikanai.html
+1.Web-page
+    1.css
+        1.style.css
+    1.img
+        1.home.png
+        1.img01.png
+        1.img02.png
+        1.img03.png
+        1.img04.png
+        1.itagaki.jpg
+        1.oonuma.jpg
+        1.otsuto.jpg
+        1.orikanai.jpg
+    1.index.html
+    1.itagaki.html
+    1.oonuma.html
+    1.otsuto.html
+    1.orikanai.html
 
 ##各メンバーの作業内容
 
