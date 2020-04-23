@@ -9,9 +9,12 @@ https://itagaki0120.github.io/Web-page
 ##ページ構成
 
 >Web-page
+
     >>css
+    
         >>>style.css
     >>img
+    
         >>>home.png
         >>>img01.png
         >>>img02.png
@@ -21,10 +24,15 @@ https://itagaki0120.github.io/Web-page
         >>>oonuma.jpg
         >>>otsuto.jpg
         >>>orikanai.jpg
+    
     >>index.html
+    
     >>itagaki.html
+    
     >>oonuma.html
+    
     >>otsuto.html
+    
     >>orikanai.html
 
 ##各メンバーの作業内容
