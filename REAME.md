@@ -32,11 +32,13 @@ https://itagaki0120.github.io/Web-page
 ### 板垣大樹
 > cssの作成  
 > index.htmlとitagaki.htmlの作成  
+> 各自のhtml補助  
 
 ### 居ヶ内和翔
 > 各ページの雛型ページの作成  
 > github補助  
 > css補助  
+> 各自のhtml補助
 > orikanai.htmlの作成  
 
 ### 大沼賢斗
