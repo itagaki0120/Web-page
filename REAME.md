@@ -7,6 +7,7 @@ https://itagaki0120.github.io/Web-page
 各自がレビュアーとしてロールプレイングをし、評価する架空のwebサイトの作成
 
 ##ページ構成
+
 -WebKadai
     -css
         -style.css
