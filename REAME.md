@@ -8,24 +8,11 @@ https://itagaki0120.github.io/Web-page
 
 ## ページ構成
 
-- Web-page
-    - css
-        - style.css  
-    - img
-        - home.png
-        - img01.png  
-        - img02.png
-        - img03.png
-        - img04.png
-        - itagaki.jpg
-        - oonuma.jpg
-        - otsuto.jpg
-        - orikanai.jpg
-    - index.html
-    - itagaki.html
-    - oonuma.html
-    - otsuto.html
-    - orikanai.html
+- jyobilog.com (topページ)
+    - itagaki.page
+    - oonuma.page
+    - otsuto.page
+    - orikanai.page
 
 ## 各メンバーの作業内容
 
