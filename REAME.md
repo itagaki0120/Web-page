@@ -8,22 +8,16 @@ https://itagaki0120.github.io/Web-page
 
 ##ページ構成
 
->Web-page
-
-    >>css
-    
-        >>>style.css
-    >>img
-    
-        >>>home.png
-        >>>img01.png
-        >>>img02.png
-        >>>img03.png
-        >>>img04.png
-        >>>itagaki.jpg
-        >>>oonuma.jpg
-        >>>otsuto.jpg
-        >>>orikanai.jpg
+>Web-page>>css>>>style.css
+>Web-page>>img>>>home.png
+>Web-page>>img>>>img01.png
+>Web-page>>img>>>img02.png
+>Web-page>>img>>>img03.png
+>Web-page>>img>>>img04.png
+>Web-page>>img>>>itagaki.jpg
+>Web-page>>img>>>oonuma.jpg
+>Web-page>>img>>>otsuto.jpg
+>Web-page>>img>>>orikanai.jpg
     
     >>index.html
     
