@@ -30,20 +30,20 @@ https://itagaki0120.github.io/Web-page
 ## 各メンバーの作業内容
 
 ### 板垣大樹
->cssの作成
->index.htmlとitagaki.htmlの作成
+> cssの作成  
+> index.htmlとitagaki.htmlの作成  
 
 ### 居ヶ内和翔
->各ページの雛型ページの作成
->github補助
->css補助
->orikanai.htmlの作成
+> 各ページの雛型ページの作成  
+> github補助  
+> css補助  
+> orikanai.htmlの作成  
 
 ### 大沼賢斗
->各ページの画像の収集
->oonuma.htmlの作成
+> 各ページの画像の収集  
+> oonuma.htmlの作成  
 
 ### 乙戸日向
->各ページに使われた画像の編集全般
->otsuto.htmlの作成
+> 各ページに使われた画像の編集全般  
+> otsuto.htmlの作成  
 
