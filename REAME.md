@@ -1,12 +1,12 @@
 https://itagaki0120.github.io/Web-page
 
-##サイト内容
+## サイト内容
 
-####飲食店評価サイト
+#### 飲食店評価サイト
 
 各自がレビュアーとしてロールプレイングをし、評価する架空のwebサイトの作成
 
-##ページ構成
+## ページ構成
 
 >Web-page>>css>>>style.css
 >Web-page>>img>>>home.png
@@ -29,23 +29,23 @@ https://itagaki0120.github.io/Web-page
     
     >>orikanai.html
 
-##各メンバーの作業内容
+## 各メンバーの作業内容
 
-###板垣大樹
+### 板垣大樹
 >cssの作成
 >index.htmlとitagaki.htmlの作成
 
-###居ヶ内和翔
+### 居ヶ内和翔
 >各ページの雛型ページの作成
 >github補助
 >css補助
 >orikanai.htmlの作成
 
-###大沼賢斗
+### 大沼賢斗
 >各ページの画像の収集
 >oonuma.htmlの作成
 
-###乙戸日向
+### 乙戸日向
 >各ページに使われた画像の編集全般
 >otsuto.htmlの作成
 
